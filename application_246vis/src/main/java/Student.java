@@ -12,7 +12,7 @@ public class Student {
     private String name;
     private int age;
 
-    public StudentString studentId, String name, int age) {
+    public Student(String studentId, String name, int age) {
         this.studentId = studentId;
         this.name = name;
         this.age = age;
